@@ -116,7 +116,7 @@ libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
 llvmlite==0.37.0
 locket==0.2.1
 lxml @ file:///C:/ci/lxml_1616443418777/work
-MarkupSafe @ file:///C:/ci/markupsafe_1607027406824/work
+MarkupSafe==1.0.1
 matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
 matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 mccabe==0.6.1
